@@ -1,0 +1,130 @@
+{
+    "alert:": {
+        "background": "#FFFFFF"
+    },
+    "breakpoints": [
+        "370px",
+        "576px",
+        "852px",
+        "968px",
+        "1080px",
+        "1200px"
+    ],
+    "card": {
+        "background": "#e5e5e5",
+        "borderColor": "#0095ffaa",
+        "boxShadow": "0px 2px 12px -8px rgba(25, 19, 38, 0.1), 0px 1px 1px rgba(25, 19, 38, 0.05)",
+        "boxShadowActive": "0px 0px 0px 1px #008541, 0px 0px 4px 8px rgba(31, 199, 212, 0.4)",
+        "boxShadowSuccess": "0px 0px 0px 1px #31d05f, 0px 0px 0px 4px rgba(49, 208, 170, 0.2)",
+        "boxShadowWarning": "0px 0px 0px 1px #ED4B9E, 0px 0px 0px 4px rgba(237, 75, 158, 0.2)",
+        "cardHeaderBackground": {
+            "blue": "linear-gradient(180deg, #A7E8F1 0%, #94E1F2 100%)",
+            "bubblegum": "linear-gradient(139.73deg, #E5FDFF 0%, #F3EFFF 100%)",
+            "default": "linear-gradient(111.68deg, #F2ECF2 0%, #E8F2F6 100%)",
+            "violet": "linear-gradient(180deg, #E2C9FB 0%, #CDB8FA 100%)"
+        },
+        "dropShadow": "drop-shadow(0px 1px 4px rgba(25, 19, 38, 0.15))"
+    },
+    "colors": {
+        "background": "#e5e5e5",
+        "backgroundAlt": "#FFFFFF",
+        "backgroundAlt2": "rgba(255, 255, 255, 0.7)",
+        "backgroundDisabled": "#E9EAEB",
+        "binance": "#F0B90B",
+        "bronze": "#E7974D",
+        "cardBorder": "#e5e5e5",
+        "contrast": "#191326",
+        "disabled": "#E9EAEB",
+        "dropdown": "#e5e5e5",
+        "dropdownDeep": "#EEEEEE",
+        "failure": "#ED4B9E",
+        "gold": "#FFC700",
+        "gradients": {
+            "blue": "linear-gradient(180deg, #A7E8F1 0%, #94E1F2 100%)",
+            "bubblegum": "linear-gradient(139.73deg, #E5FDFF 0%, #F3EFFF 100%)",
+            "cardHeader": "linear-gradient(111.68deg, #F2ECF2 0%, #E8F2F6 100%)",
+            "gold": "linear-gradient(180deg, #FFD800 0%, #FDAB32 100%)",
+            "inverseBubblegum": "linear-gradient(139.73deg, #F3EFFF 0%, #E5FDFF 100%)",
+            "violet": "linear-gradient(180deg, #E2C9FB 0%, #CDB8FA 100%)",
+            "violetAlt": "linear-gradient(180deg, #CBD7EF 0%, #9A9FD0 100%)"
+        },
+        "input": "#c3c4c7",
+        "inputSecondary": "#caecec",
+        "invertedContrast": "#FFFFFF",
+        "overlay": "#452a7a",
+        "primary": "#00af56",
+        "primaryBright": "#00ff7d",
+        "primaryDark": "#008541",
+        "secondary": "#253449",
+        "silver": "#B2B2B2",
+        "success": "#31D05F",
+        "tertiary": "#EFF4F5",
+        "text": "#253449",
+        "lightText": "#253449CC",
+        "textDisabled": "#BDC2C4",
+        "textSubtle": "#00AF56",
+        "warning": "#FFB237",
+        "textColor": "#FFFFFF",
+        "headerBackground": "#dcdcde",
+        "sideBarBackground": "#f0f0f1",
+        "sideBarTextColor": "#00380C",
+        "sideBarTextHoverBackground": "#c3c4c7",
+        "pageHeaderBackground": "#e5e5e5",
+        "customBackground": "#e5e5e5",
+        "borderColor": "#e5e5e5",
+        "modalInput": "#e5e5e5",
+        "tableBorder": "#253449"
+    },
+    "isDark": false,
+    "mediaQueries": {
+        "lg": "@media screen and (min-width: 968px)",
+        "md": "@media screen and (min-width: 852px)",
+        "nav": "@media screen and (min-width: 968px)",
+        "sm": "@media screen and (min-width: 576px)",
+        "xl": "@media screen and (min-width: 1080px)",
+        "xs": "@media screen and (min-width: 370px)",
+        "xxl": "@media screen and (min-width: 1200px)"
+    },
+    "modal": {
+        "background": "#FFFFFF"
+    },
+    "nav": {
+        "background": "#FFFFFF"
+    },
+    "pancakeToggle": {
+        "handleBackground": "#FFFFFF",
+        "handleShadow": "#BDC2C4"
+    },
+    "radii": {
+        "card": "24px",
+        "circle": "50%",
+        "default": "16px",
+        "small": "4px"
+    },
+    "radio": {
+        "handleBackground": "#FFFFFF"
+    },
+    "shadows": {
+        "active": "0px 0px 0px 1px #008541, 0px 0px 4px 8px rgba(31, 199, 212, 0.4)",
+        "focus": "0px 0px 0px 1px #00af56, 0px 0px 0px 4px #00af5677",
+        "inset": "inset 0px 2px 2px -1px rgba(74, 74, 104, 0.1)",
+        "level1": "0px 2px 12px -8px rgba(25, 19, 38, 0.1), 0px 1px 1px rgba(25, 19, 38, 0.05)",
+        "success": "0px 0px 0px 1px #31d05f, 0px 0px 0px 4px rgba(49, 208, 170, 0.2)",
+        "tooltip": "0px 0px 2px rgba(0, 0, 0, 0.2), 0px 4px 12px -8px rgba(14, 14, 44, 0.1)",
+        "warning": "0px 0px 0px 1px #ED4B9E, 0px 0px 0px 4px rgba(237, 75, 158, 0.2)"
+    },
+    "siteWidth": 1200,
+    "spacing": [0, 4, 8, 16, 24, 32, 48, 64],
+    "toggle": {
+        "handleBackground": "#FFFFFF"
+    },
+    "tooltip": {
+        "background": "#27262c",
+        "boxShadow": "0px 0px 2px rgba(0, 0, 0, 0.2), 0px 4px 12px -8px rgba(14, 14, 44, 0.1)",
+        "text": "#F4EEFF"
+    },
+    "zIndices": {
+        "dropdown": 10,
+        "modal": 100
+    }
+}

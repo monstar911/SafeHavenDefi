@@ -1,0 +1,37 @@
+@import "../assets/styles/fonts.scss";
+
+* {
+  outline: none;
+  box-sizing: border-box;
+  font-family: Kanit, sans-serif;
+}
+
+html,
+body,
+#root {
+  font-family: "Square";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none !important;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield !important;
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
